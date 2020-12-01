@@ -1,1 +1,1 @@
-# nrw-pro
+# Box Class
